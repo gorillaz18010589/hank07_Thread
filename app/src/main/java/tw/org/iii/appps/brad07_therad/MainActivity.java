@@ -1,6 +1,7 @@
 package tw.org.iii.appps.brad07_therad;
 //設計執行序20秒發現,如果只是上衣頁的話,執行序還是會跑,除非關掉
 //設定自動排成,其實java還是有內建關閉機制,雖然你沒關閉
+//
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
